@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA7EKig40NCmwJaXNi3SSpIKyO8d_BpAPU',
+    apiKey: 'PPPAIzaSyA7EKig40NCmwJaXNi3SSpIKyO8d_BpAPU',
     authDomain: 'eldora-app.firebaseapp.com',
     projectId: 'eldora-app',
     storageBucket: 'eldora-app.firebasestorage.app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB5jWbTVsW9PVgnXVJ_lp3QK3J2r-1UbKA',
+    apiKey: 'PPPAIzaSyB5jWbTVsW9PVgnXVJ_lp3QK3J2r-1UbKA',
     appId: '1:274226287420:android:474e82fee4375860148439',
     messagingSenderId: '274226287420',
     projectId: 'eldora-app',
