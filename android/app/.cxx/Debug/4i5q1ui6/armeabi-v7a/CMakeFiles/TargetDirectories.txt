@@ -1,0 +1,2 @@
+D:/Hackathon/GDSC/Eldora (1)/android/app/.cxx/Debug/4i5q1ui6/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Hackathon/GDSC/Eldora (1)/android/app/.cxx/Debug/4i5q1ui6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
